@@ -12,7 +12,7 @@ import { FilterProvider } from "@/contexts/filter-context";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "hoopkicks - Adidas Shoes Marketplace",
+  title: "SneakerStyle - Adidas Shoes Marketplace",
   description: "Your one-stop shop for high-performance Adidas shoes whole sale",
   icons: {
     icon: "/favicon/favicon.ico",
@@ -27,7 +27,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en" suppressHydrationWarning>
+    <html lang="en" className="dark" suppressHydrationWarning>
       <body className={inter.className}>
         <ThemeProvider
           attribute="class"

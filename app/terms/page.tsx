@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Terms of Service - PT Rantai Angka Teknologi',
-  description: 'Terms of Service and conditions for using hoopkicks services',
+  description: 'Terms of Service and conditions for using SneakerStyle services',
 }
 
 export default function TermsPage() {
@@ -23,7 +23,7 @@ export default function TermsPage() {
                 1. Agreement to Terms
               </h2>
               <p className="text-muted-foreground">
-                By accessing and using the services provided by PT Rantai Angka Teknologi (hereinafter referred to as &quot;hoopkicks&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
+                By accessing and using the services provided by PT Rantai Angka Teknologi (hereinafter referred to as &quot;SneakerStyle&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
               </p>
             </div>
 
@@ -32,7 +32,7 @@ export default function TermsPage() {
                 2. Products and Services
               </h2>
               <p className="text-muted-foreground">
-                hoopkicks provides high-performance computing hardware, including but not limited to GPUs and mini servers. All product specifications and prices are subject to change without prior notice.
+                SneakerStyle provides high-performance computing hardware, including but not limited to GPUs and mini servers. All product specifications and prices are subject to change without prior notice.
               </p>
             </div>
 
@@ -84,7 +84,7 @@ export default function TermsPage() {
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: admin@hoopkicks.com</p>
+                  <p>Email: admin@SneakerStyle.com</p>
                   <p>Phone: (021) 50111528</p>
                 </div>
               </div>

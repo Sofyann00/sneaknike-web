@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy - PT Rantai Angka Teknologi',
-  description: 'Privacy Policy for hoopkicks services and customer data protection',
+  description: 'Privacy Policy for SneakerStyle services and customer data protection',
 }
 
 export default function PrivacyPage() {
@@ -23,7 +23,7 @@ export default function PrivacyPage() {
                 1. Information We Collect
               </h2>
               <p className="text-muted-foreground">
-                PT Big Solusi Teknologi (&quot;hoopkicks&quot;) collects personal information including but not limited to: name, email address, phone number, shipping address, and payment information when you make a purchase or create an account.
+                PT Big Solusi Teknologi (&quot;SneakerStyle&quot;) collects personal information including but not limited to: name, email address, phone number, shipping address, and payment information when you make a purchase or create an account.
               </p>
             </div>
 
@@ -98,7 +98,7 @@ export default function PrivacyPage() {
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: admin@hoopkicks.com</p>
+                  <p>Email: admin@SneakerStyle.com</p>
                   <p>Phone: (021) 50111528</p>
                 </div>
               </div>
