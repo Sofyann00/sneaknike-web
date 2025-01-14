@@ -32,7 +32,7 @@ export default function TermsPage() {
                 2. Products and Services
               </h2>
               <p className="text-muted-foreground">
-                SneakerStyle provides high-performance computing hardware, including but not limited to GPUs and mini servers. All product specifications and prices are subject to change without prior notice.
+                SneakerStyle provides authentic sneakers and related footwear products. All product listings, including prices, availability, and specifications, are subject to change without prior notice. We guarantee the authenticity of all products sold through our platform.
               </p>
             </div>
 
@@ -41,7 +41,7 @@ export default function TermsPage() {
                 3. Warranty and Returns
               </h2>
               <p className="text-muted-foreground">
-                All products come with manufacturer warranty. Customers must inspect products upon delivery and report any defects within 7 days. Returns are subject to our return policy and must be in original condition with complete packaging.
+                All products are guaranteed to be 100% authentic. Customers must inspect products upon delivery and report any defects within 48 hours. Returns are only accepted for authenticity issues or manufacturing defects, and items must be unworn, in original condition with all original packaging and tags attached.
               </p>
             </div>
 
@@ -50,7 +50,7 @@ export default function TermsPage() {
                 4. Privacy and Data Protection
               </h2>
               <p className="text-muted-foreground">
-                We collect and process personal data in accordance with Indonesian data protection laws. For more information, please refer to our Privacy Policy.
+                We collect and process personal data in accordance with Indonesian data protection laws. This includes shipping information, purchase history, and payment details. For more information, please refer to our Privacy Policy.
               </p>
             </div>
 
@@ -59,7 +59,7 @@ export default function TermsPage() {
                 5. Limitation of Liability
               </h2>
               <p className="text-muted-foreground">
-              PT SINAR TEKNOLOGI SOLUSI shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.
+                While we guarantee product authenticity, SneakerStyle shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services, including but not limited to sizing issues or personal preferences.
               </p>
             </div>
 
