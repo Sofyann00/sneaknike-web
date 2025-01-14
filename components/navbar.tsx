@@ -98,11 +98,11 @@ export function Navbar() {
         <div className="flex items-center gap-x-2 ml-4 lg:ml-0">
           <Image 
             src="/app_icon.jpg" 
-            alt="SneakerStyle Logo"
+            alt="Sneakerskuy Logo"
             width={32}
             height={32}
           />
-          <span className="text-xl font-bold">SneakerStyle</span>
+          <span className="text-xl font-bold">Sneakerskuy</span>
         </div>
 
         <nav className="mx-6 hidden lg:flex items-center space-x-4 lg:space-x-6">

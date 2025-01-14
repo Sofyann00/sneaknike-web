@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy - PT SINAR TEKNOLOGI SOLUSI',
-  description: 'Privacy Policy for SneakerStyle services and customer data protection',
+  description: 'Privacy Policy for Sneakerskuy services and customer data protection',
 }
 
 export default function PrivacyPage() {
@@ -23,7 +23,7 @@ export default function PrivacyPage() {
                 1. Information We Collect
               </h2>
               <p className="text-muted-foreground">
-                SneakerStyle collects personal information including but not limited to: name, email address, phone number, shipping address, shoe size preferences, purchase history, and payment information when you make a purchase or create an account on our platform.
+                Sneakerskuy collects personal information including but not limited to: name, email address, phone number, shipping address, shoe size preferences, purchase history, and payment information when you make a purchase or create an account on our platform.
               </p>
             </div>
 
@@ -100,7 +100,7 @@ export default function PrivacyPage() {
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: support@sneakerstyle.com</p>
+                  <p>Email: support@Sneakerskuy.com</p>
                   <p>Phone: (021) 50111528</p>
                 </div>
               </div>

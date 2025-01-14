@@ -2,7 +2,7 @@ import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'Terms of Service - PT SINAR TEKNOLOGI SOLUSI',
-  description: 'Terms of Service and conditions for using SneakerStyle services',
+  description: 'Terms of Service and conditions for using Sneakerskuy services',
 }
 
 export default function TermsPage() {
@@ -23,7 +23,7 @@ export default function TermsPage() {
                 1. Agreement to Terms
               </h2>
               <p className="text-muted-foreground">
-                By accessing and using the services provided by PT SINAR TEKNOLOGI SOLUSI (hereinafter referred to as &quot;SneakerStyle&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
+                By accessing and using the services provided by PT SINAR TEKNOLOGI SOLUSI (hereinafter referred to as &quot;Sneakerskuy&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
               </p>
             </div>
 
@@ -32,7 +32,7 @@ export default function TermsPage() {
                 2. Products and Services
               </h2>
               <p className="text-muted-foreground">
-                SneakerStyle provides authentic sneakers and related footwear products. All product listings, including prices, availability, and specifications, are subject to change without prior notice. We guarantee the authenticity of all products sold through our platform.
+                Sneakerskuy provides authentic sneakers and related footwear products. All product listings, including prices, availability, and specifications, are subject to change without prior notice. We guarantee the authenticity of all products sold through our platform.
               </p>
             </div>
 
@@ -59,7 +59,7 @@ export default function TermsPage() {
                 5. Limitation of Liability
               </h2>
               <p className="text-muted-foreground">
-                While we guarantee product authenticity, SneakerStyle shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services, including but not limited to sizing issues or personal preferences.
+                While we guarantee product authenticity, Sneakerskuy shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services, including but not limited to sizing issues or personal preferences.
               </p>
             </div>
 
@@ -84,7 +84,7 @@ export default function TermsPage() {
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: admin@SneakerStyle.com</p>
+                  <p>Email: admin@Sneakerskuy.com</p>
                   <p>Phone: (021) 50111528</p>
                 </div>
               </div>

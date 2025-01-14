@@ -11,11 +11,11 @@ export function Footer() {
             <div className="flex items-center gap-x-2">
               <img 
                 src="/app_icon.jpg" 
-                alt="SneakerStyle Logo"
+                alt="Sneakerskuy Logo"
                 width={32}
                 height={32}
               />
-              <span className="text-xl font-bold">SneakerStyle</span>
+              <span className="text-xl font-bold">Sneakerskuy</span>
             </div>
             <p className="mt-4 text-sm text-muted-foreground leading-relaxed">
               Your trusted authorized Nike retailer. Discover our curated collection 
@@ -95,10 +95,10 @@ export function Footer() {
                 <div className="space-y-2">
                   <p>
                     <a
-                      href="mailto:support@sneakerstyle.com"
+                      href="mailto:support@Sneakerskuy.com"
                       className="hover:text-foreground transition-colors"
                     >
-                      support@sneakerstyle.com
+                      support@Sneakerskuy.com
                     </a>
                   </p>
                   <p>
@@ -114,9 +114,12 @@ export function Footer() {
               <div className="text-sm text-muted-foreground">
                 <p className="font-medium text-foreground mb-2">Store Location</p>
                 <p className="leading-relaxed">
-                  Grand Shopping Mall,<br />
-                  123 Fashion Street,<br />
-                  New York, NY 10001
+                  Komplek Perkantoran Duta Merlin Blok F13,<br />
+                  Jalan Gajah Mada,<br />
+                  Desa/Kelurahan Petojo Utara, Kec. Gambir,<br />
+                  Kota Adm. Jakarta Pusat,<br />
+                  Provinsi DKI Jakarta,<br />
+                  Kode Pos: 10130
                 </p>
               </div>
             </div>
