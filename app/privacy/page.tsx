@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy - PT Rantai Angka Teknologi',
+  title: 'Privacy Policy - PT SINAR TEKNOLOGI SOLUSI',
   description: 'Privacy Policy for SneakerStyle services and customer data protection',
 }
 
@@ -23,7 +23,7 @@ export default function PrivacyPage() {
                 1. Information We Collect
               </h2>
               <p className="text-muted-foreground">
-                PT SINAR TEKNOLOGI SOLUSI (&quot;SneakerStyle&quot;) collects personal information including but not limited to: name, email address, phone number, shipping address, and payment information when you make a purchase or create an account.
+                SneakerStyle collects personal information including but not limited to: name, email address, phone number, shipping address, shoe size preferences, purchase history, and payment information when you make a purchase or create an account on our platform.
               </p>
             </div>
 
@@ -35,10 +35,12 @@ export default function PrivacyPage() {
                 We use your information to:
               </p>
               <ul className="list-disc ml-6 mt-2 text-muted-foreground space-y-1">
-                <li>Process your orders and provide customer support</li>
-                <li>Send important updates about your purchases</li>
-                <li>Improve our products and services</li>
-                <li>Send promotional communications (with your consent)</li>
+                <li>Process your sneaker orders and provide customer support</li>
+                <li>Send order tracking and delivery updates</li>
+                <li>Notify you about new sneaker releases and restocks</li>
+                <li>Personalize your shopping experience based on your preferences</li>
+                <li>Verify product authenticity and maintain transaction records</li>
+                <li>Send promotional offers and newsletters (with your consent)</li>
                 <li>Comply with legal obligations</li>
               </ul>
             </div>
@@ -82,7 +84,7 @@ export default function PrivacyPage() {
                 6. Cookies and Tracking
               </h2>
               <p className="text-muted-foreground">
-                We use cookies and similar tracking technologies to improve your browsing experience, analyze site traffic, and understand where our visitors come from.
+                We use cookies and similar tracking technologies to enhance your shopping experience, remember your preferences, maintain your login status, analyze site traffic, and provide personalized sneaker recommendations based on your browsing history.
               </p>
             </div>
 
@@ -91,14 +93,14 @@ export default function PrivacyPage() {
                 7. Contact Information
               </h2>
               <div className="text-muted-foreground">
-                <p>For any questions about this Privacy Policy or our data practices, please contact us at:</p>
+                <p>For any questions about this Privacy Policy, product authenticity, or our data practices, please contact us at:</p>
                 <div className="mt-2">
-                  <p>PT Rantai Angka Teknologi</p>
+                  <p>PT SINAR TEKNOLOGI SOLUSI</p>
                   <p>Komplek Perkantoran Duta Merlin Blok F13</p>
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
                   <p>DKI Jakarta, Indonesia</p>
-                  <p>Email: admin@SneakerStyle.com</p>
+                  <p>Email: support@sneakerstyle.com</p>
                   <p>Phone: (021) 50111528</p>
                 </div>
               </div>

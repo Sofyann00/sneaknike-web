@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 
 export const metadata: Metadata = {
-  title: 'Terms of Service - PT Rantai Angka Teknologi',
+  title: 'Terms of Service - PT SINAR TEKNOLOGI SOLUSI',
   description: 'Terms of Service and conditions for using SneakerStyle services',
 }
 
@@ -23,7 +23,7 @@ export default function TermsPage() {
                 1. Agreement to Terms
               </h2>
               <p className="text-muted-foreground">
-                By accessing and using the services provided by PT Rantai Angka Teknologi (hereinafter referred to as &quot;SneakerStyle&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
+                By accessing and using the services provided by PT SINAR TEKNOLOGI SOLUSI (hereinafter referred to as &quot;SneakerStyle&quot;), you accept and agree to be bound by the terms and provisions of this agreement.
               </p>
             </div>
 
@@ -59,7 +59,7 @@ export default function TermsPage() {
                 5. Limitation of Liability
               </h2>
               <p className="text-muted-foreground">
-                PT Rantai Angka Teknologi shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.
+              PT SINAR TEKNOLOGI SOLUSI shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of our services.
               </p>
             </div>
 
@@ -79,7 +79,7 @@ export default function TermsPage() {
               <div className="text-muted-foreground">
                 <p>For any questions about these Terms of Service, please contact us at:</p>
                 <div className="mt-2">
-                  <p>PT Rantai Angka Teknologi</p>
+                  <p>PT SINAR TEKNOLOGI SOLUSI</p>
                   <p>Komplek Perkantoran Duta Merlin Blok F13</p>
                   <p>Jalan Gajah Mada, Petojo Utara</p>
                   <p>Gambir, Jakarta Pusat</p>
