@@ -126,7 +126,7 @@ export function Footer() {
           </div>
 
           {/* Copyright section */}
-          <div className="mt-16 pt-8 border-t">
+          <div className="col-span-1 md:col-span-4 mt-16 pt-8 border-t">
             <p className="text-sm text-muted-foreground text-center">
               © {new Date().getFullYear()} PT SINAR TEKNOLOGI SOLUSI. Authorized Nike Retailer.
             </p>
